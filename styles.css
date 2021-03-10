@@ -63,6 +63,7 @@ a.nav-link {
   background-image: url(images/codecode.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  text-align: center;
 }
 
 object {
