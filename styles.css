@@ -108,9 +108,10 @@ p {
 
 .card {
   width: 60%;
-  text-align: center;
   margin: auto;
+  text-align: center;
   border: solid 2px;
+  margin-bottom: 12px;
 }
 
 .card:hover {
