@@ -3,11 +3,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 
   overflow-x: hidden;
-  display: flexbox;
 }
 
 .navbar {
   background-color: #e3f2fd;
+}
+
+a.nav-link {
+  color: black !important;
 }
 
 .title,
