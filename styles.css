@@ -70,6 +70,10 @@ object {
   display: none;
 }
 
+.about-container {
+  padding-bottom: 50px !important;
+}
+
 .about-me,
 .my-projects,
 .my-contact {
